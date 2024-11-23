@@ -1,55 +1,56 @@
 <div align="center">
+
   <img src="https://avatars.githubusercontent.com/u/149794320?v=4" width="100" height="100" />
-  <h1>Hi, I'm Adith </h1>
-  <p>A passionate Fullstack Web Developer</p>
+
+  <h1>Hi, I'm Adith 👋</h1>
+
+  <p>A passionate <strong>Fullstack Web Developer</strong></p>
+
+  <p>🚀 Building innovative solutions with cutting-edge technology 🚀</p>
+
 </div>
 
-<br/>
+---
 
-![Achievement - Building things](https://cdn.jsdelivr.net/npm/github-profile-readme-generator@2.2.1/dist/images/achievements/building-things.svg)
+## 🚀 Skills
 
-## Programming Languages
+### **Programming Languages**
 
-Here are the programming languages I use:
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-* **JavaScript** 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" alt="JavaScript" height="20" style="filter: invert(100%) hue-rotate(200deg);"/>
-* **Java** 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/java.svg" alt="Java" height="20" style="filter: invert(100%) hue-rotate(210deg);"/>
-* **Python** 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" alt="Python" height="20" style="filter: invert(100%) hue-rotate(120deg);"/>
-* **C++** 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cplusplus.svg" alt="C++" height="20" style="filter: invert(100%) hue-rotate(300deg);"/>
-* **C#** 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/csharp.svg" alt="C#" height="20" style="filter: invert(100%) hue-rotate(10deg);"/>
-* **HTML5** 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" alt="HTML5" height="20" style="filter: invert(100%) hue-rotate(310deg);"/>
-* **CSS3** 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" alt="CSS3" height="20" style="filter: invert(100%) hue-route(50deg);"/>
+---
 
-## Tools & Technologies
+### **Tools & Technologies**
 
-The tools and technologies I'm comfortable with:
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
-* **Visual Studio Code** 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/visualstudiocode.svg" alt="Visual Studio Code" height="20" style="filter: invert(100%) hue-rotate(200deg);"/>
-* **Windows** 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/windows.svg" alt="Windows" height="20" style="filter: invert(100%) hue-rotate(300deg);"/>
-* **Linux** 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linux.svg" alt="Linux" height="20" style="filter: invert(100%) hue-rotate(10deg);"/>
-* **Figma** 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/figma.svg" alt="Figma" height="20" style="filter: invert(100%) hue-rotate(210deg);"/>
+---
 
+## 🌟 Projects
 
-## Projects
+### **Tekgrid**
 
-Here are some of my projects:
+- 🛒 A tiny e-commerce website with all the functionalities you expect  
+- 🚀 **[SOON]**
 
-* **Tekgrid** 
-  * A tiny e-commerce website with all the functionalities you expect
-  * [SOON]
-* **Icify** 
-  * A non-electron desktop app for playing music from JioSaavn and YT sources
-  * [SOON]
+### **Icify**
 
-**Thank you for visiting!**
+- 🎵 A non-electron desktop app for playing music from JioSaavn and YT sources  
+- 🚀 **[SOON]**
+
+---
+
+<p align="center">✨ Thank you for visiting! ✨</p>
