@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-username" width="100" height="100" />
+  <img src="https://avatars.githubusercontent.com/u/adith-codes" width="100" height="100" />
   <h1>Hi, I'm Adith 👋</h1>
   <p>A passionate Fullstack Web developer</p>
 </div>
