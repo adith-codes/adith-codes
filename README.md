@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-username" width="100" height="100" />
+  <h1>Hi, I'm Adith 👋</h1>
+  <p>A passionate Fullstack Web developer</p>
+</div>
 
-<!--
-**adith-codes/adith-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+### Programming Languages
+* **[Language 1]** 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" alt="JavaScript" height="20" />
+* **[Language 2]** 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/java.svg" alt="Java" height="20" />
+* **[Language 3]** 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" alt="Python" height="20" />
+* **[Language 4]** 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cplusplus.svg" alt="C++" height="20" />
+* **[Language 5]** 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/csharp.svg" alt="C#" height="20" />
+* **[Language 6]** 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" alt="HTML5" height="20" />
+* **[Language 7]** 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" alt="CSS3" height="20" />
 
-Here are some ideas to get you started:
+### Tools & Technologies
+* **[Tool 1]** 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/visualstudiocode.svg" alt="Visual Studio Code" height="20" />
+* **[Tool 2]** 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/windows.svg" alt="Windows" height="20" />
+* **[Tool 3]** 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linux.svg" alt="Linux" height="20" />
+* **[Tool 4]** 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/figma.svg" alt="Figma" height="20" /> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+* **Tekgrid** 
+  * A tiny e-commerce website with all the functionalities you expect
+  * [SOON]
+* **Icify** 
+  * A non-electron desktop app for playing music from JioSaavn, and YT sources
+  * [SOON]
+
+**Thank you for visiting!**
