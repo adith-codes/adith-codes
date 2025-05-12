@@ -41,7 +41,7 @@
 
 ## 🌟 Projects
 
-### **Tekgrid**
+### **Techgrip**
 
 - 🛒 A tiny e-commerce website with all the functionalities you expect  
 - 🚀 **[SOON]**
